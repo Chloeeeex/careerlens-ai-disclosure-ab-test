@@ -1,0 +1,10 @@
+# Raw data (privacy)
+data/*.csv
+
+# Generated figures
+figures/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
